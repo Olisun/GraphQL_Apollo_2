@@ -12,7 +12,7 @@ const typeDefs = gql`
   type Query {
     users: [User]
   }
-`
+`;
 
 // Resolvers for fetching data from GQL
 const resolvers = {
