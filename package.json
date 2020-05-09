@@ -1,0 +1,17 @@
+{
+  "name": "GraphQL_Apollo_2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/Olisun/GraphQL_Apollo_2.git",
+  "author": "Oliver Sun <olisun@mac.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.13.0",
+    "axios": "^0.19.2",
+    "graphql": "^15.0.0",
+    "nodemon": "^2.0.3"
+  }
+}
